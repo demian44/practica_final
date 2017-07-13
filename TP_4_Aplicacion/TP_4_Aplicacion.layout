@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="UsuarioVentaProductos.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3660" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="validacion.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3261" topLine="140" />
+		</Cursor>
+	</File>
+	<File name="menus.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="263" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="archivos.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ArrayList.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5175" topLine="147" />
+		</Cursor>
+	</File>
+	<File name="UsuarioVentaProductos.c" open="1" top="1" tabpos="12" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18567" topLine="205" />
+		</Cursor>
+		<Folding>
+			<Collapse line="43" />
+			<Collapse line="67" />
+			<Collapse line="162" />
+			<Collapse line="210" />
+			<Collapse line="221" />
+			<Collapse line="240" />
+			<Collapse line="256" />
+			<Collapse line="266" />
+			<Collapse line="284" />
+			<Collapse line="305" />
+			<Collapse line="322" />
+			<Collapse line="378" />
+			<Collapse line="408" />
+			<Collapse line="436" />
+			<Collapse line="455" />
+			<Collapse line="485" />
+			<Collapse line="512" />
+			<Collapse line="603" />
+			<Collapse line="610" />
+			<Collapse line="622" />
+			<Collapse line="636" />
+			<Collapse line="642" />
+			<Collapse line="652" />
+			<Collapse line="665" />
+			<Collapse line="672" />
+			<Collapse line="684" />
+			<Collapse line="700" />
+			<Collapse line="708" />
+		</Folding>
+	</File>
+	<File name="carga.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1648" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="archivos.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="364" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="carga.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1520" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="menus.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1942" topLine="46" />
+		</Cursor>
+	</File>
+	<File name="ArrayList.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10209" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="validacion.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="355" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

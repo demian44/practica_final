@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1497571745 source:/home/alumno/FACU/TP_4_Aplicacion/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1497563751 /home/alumno/FACU/TP_4_Aplicacion/ArrayList.h
+
+1497568114 source:/home/alumno/FACU/TP_4_Aplicacion/carga.c
+	"carga.h"
+
+1497563751 /home/alumno/FACU/TP_4_Aplicacion/carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+
+1497563751 source:/home/alumno/FACU/TP_4_Aplicacion/main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"menus.h"
+
+1497571193 source:/home/alumno/FACU/TP_4_Aplicacion/menus.c
+	"menus.h"
+
+1497563751 source:/home/alumno/FACU/TP_4_Aplicacion/validacion.c
+	"validacion.h"
+
+1497563751 /home/alumno/FACU/TP_4_Aplicacion/validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1497563751 /home/alumno/FACU/TP_4_Aplicacion/menus.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+	"UsuarioVentaProductos.h"
+
+1498101546 source:e:\facu\facu\tp_4_aplicacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498100664 e:\facu\facu\tp_4_aplicacion\arraylist.h
+
+1498100664 source:e:\facu\facu\tp_4_aplicacion\carga.c
+	"carga.h"
+
+1498100664 e:\facu\facu\tp_4_aplicacion\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498100664 source:e:\facu\facu\tp_4_aplicacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"menus.h"
+
+1498100664 e:\facu\facu\tp_4_aplicacion\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+	"UsuarioVentaProductos.h"
+
+1498154715 source:e:\facu\facu\tp_4_aplicacion\validacion.c
+	"validacion.h"
+
+1498154715 e:\facu\facu\tp_4_aplicacion\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498159624 source:e:\facu\facu\tp_4_aplicacion\menus.c
+	"menus.h"
+	"conio.h"
+
+1497511573 source:e:\facu\facu\tp_4_aplicacion\usuario_venta_productos.c
+	"usuario_venta_productos.h"
+
+1497508912 e:\facu\facu\tp_4_aplicacion\usuario_venta_productos.h
+	<stdlib.h>
+	<strings.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498161690 e:\facu\facu\tp_4_aplicacion\usuarioventaproductos.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498100664 source:e:\facu\facu\tp_4_aplicacion\archivos.c
+
+1498161639 source:e:\facu\facu\tp_4_aplicacion\usuarioventaproductos.c
+	"UsuarioVentaProductos.h"
+	"conio.h"
+
+1497563751 source:/home/alumno/FACU/TP_4_Aplicacion/archivos.c
+
+1497568594 /home/alumno/FACU/TP_4_Aplicacion/UsuarioVentaProductos.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1497570922 source:/home/alumno/FACU/TP_4_Aplicacion/UsuarioVentaProductos.c
+	"UsuarioVentaProductos.h"
+
+1498081544 source:d:\facu\tp_4_aplicacion\archivos.c
+
+1498092172 source:d:\facu\tp_4_aplicacion\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498092172 d:\facu\tp_4_aplicacion\arraylist.h
+
+1498081544 source:d:\facu\tp_4_aplicacion\carga.c
+	"carga.h"
+
+1498081544 d:\facu\tp_4_aplicacion\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498081544 d:\facu\tp_4_aplicacion\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498081544 source:d:\facu\tp_4_aplicacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"menus.h"
+
+1498088713 d:\facu\tp_4_aplicacion\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+	"UsuarioVentaProductos.h"
+
+1498092635 d:\facu\tp_4_aplicacion\usuarioventaproductos.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498094429 source:d:\facu\tp_4_aplicacion\menus.c
+	"menus.h"
+	"conio.h"
+
+1498093804 source:d:\facu\tp_4_aplicacion\usuarioventaproductos.c
+	"UsuarioVentaProductos.h"
+	"conio.h"
+
+1498081544 source:d:\facu\tp_4_aplicacion\validacion.c
+	"validacion.h"
+

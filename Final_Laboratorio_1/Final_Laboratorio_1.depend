@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1499867588 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\main.c
+	"controller.h"
+
+1499866870 e:\facu\tp_laboratorio_1\final_laboratorio_1\controller.h
+	<stdio.h>
+	<stdlib.h>
+
+1499967859 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\controller.c
+	"controller.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498588979 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498588979 e:\facu\tp_laboratorio_1\final_laboratorio_1\arraylist.h
+
+1498588979 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\carga.c
+	"carga.h"
+
+1498588979 e:\facu\tp_laboratorio_1\final_laboratorio_1\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498588979 e:\facu\tp_laboratorio_1\final_laboratorio_1\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498588979 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\validacion.c
+	"validacion.h"
+
+1499867640 source:e:\facu\tp_laboratorio_1\final_laboratorio_1\menu.c
+	"menu.h"
+	"conio.h"
+
+1498588979 e:\facu\tp_laboratorio_1\final_laboratorio_1\menu.h
+	"conio.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+

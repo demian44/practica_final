@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1498174345 source:d:\parcial_boullon\parcial_boullon_22-06-2017\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498166749 d:\parcial_boullon\parcial_boullon_22-06-2017\arraylist.h
+
+1498166749 source:d:\parcial_boullon\parcial_boullon_22-06-2017\carga.c
+	"carga.h"
+
+1498174781 d:\parcial_boullon\parcial_boullon_22-06-2017\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498166749 d:\parcial_boullon\parcial_boullon_22-06-2017\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498174846 source:d:\parcial_boullon\parcial_boullon_22-06-2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1498175256 source:d:\parcial_boullon\parcial_boullon_22-06-2017\menu.c
+	"menu.h"
+	"conio.h"
+	"destinatarios.h"
+
+1498166749 source:d:\parcial_boullon\parcial_boullon_22-06-2017\validacion.c
+	"validacion.h"
+
+1498174846 d:\parcial_boullon\parcial_boullon_22-06-2017\menu.h
+	"conio.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+
+1498176360 source:d:\parcial_boullon\parcial_boullon_22-06-2017\destinatarios.c
+	"destinatarios.h"
+	<conio.h>
+
+1498176053 d:\parcial_boullon\parcial_boullon_22-06-2017\destinatarios.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498174345 source:c:\users\alumno\tp_laboratorio_1\parcia_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498166749 c:\users\alumno\tp_laboratorio_1\parcia_2\arraylist.h
+
+1498166749 source:c:\users\alumno\tp_laboratorio_1\parcia_2\carga.c
+	"carga.h"
+
+1498174781 c:\users\alumno\tp_laboratorio_1\parcia_2\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498166749 c:\users\alumno\tp_laboratorio_1\parcia_2\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498176360 source:c:\users\alumno\tp_laboratorio_1\parcia_2\destinatarios.c
+	"destinatarios.h"
+	<conio.h>
+
+1498176053 c:\users\alumno\tp_laboratorio_1\parcia_2\destinatarios.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498176935 source:c:\users\alumno\tp_laboratorio_1\parcia_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1498174846 c:\users\alumno\tp_laboratorio_1\parcia_2\menu.h
+	"conio.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+
+1498175256 source:c:\users\alumno\tp_laboratorio_1\parcia_2\menu.c
+	"menu.h"
+	"conio.h"
+	"destinatarios.h"
+
+1498166749 source:c:\users\alumno\tp_laboratorio_1\parcia_2\validacion.c
+	"validacion.h"
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1498588979 e:\facu\tp_laboratorio_1\parcia_2\arraylist.h
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\carga.c
+	"carga.h"
+
+1498588979 e:\facu\tp_laboratorio_1\parcia_2\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1498588979 e:\facu\tp_laboratorio_1\parcia_2\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\destinatarios.c
+	"destinatarios.h"
+	<conio.h>
+
+1498588979 e:\facu\tp_laboratorio_1\parcia_2\destinatarios.h
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+	"carga.h"
+	"ArrayList.h"
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1498588979 e:\facu\tp_laboratorio_1\parcia_2\menu.h
+	"conio.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\menu.c
+	"menu.h"
+	"conio.h"
+	"destinatarios.h"
+
+1498588979 source:e:\facu\tp_laboratorio_1\parcia_2\validacion.c
+	"validacion.h"
+

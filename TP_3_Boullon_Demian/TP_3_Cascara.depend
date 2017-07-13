@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1496340921 source:e:\facu\tp_laboratorio_1\tp_3_boullon_demian\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"carga.h"
+	<string.h>
+
+1496333807 e:\facu\tp_laboratorio_1\tp_3_boullon_demian\funciones.h
+
+1496338347 source:e:\facu\tp_laboratorio_1\tp_3_boullon_demian\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validacion.h"
+	"carga.h"
+
+1496342091 source:e:\facu\tp_laboratorio_1\tp_3_boullon_demian\carga.c
+	"carga.h"
+
+1496335447 source:e:\facu\tp_laboratorio_1\tp_3_boullon_demian\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carga.h"
+	<conio.h>
+
+1496333254 e:\facu\tp_laboratorio_1\tp_3_boullon_demian\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"funciones.h"
+	"validacion.h"
+
+1495819054 e:\facu\tp_laboratorio_1\tp_3_boullon_demian\validacion.h
+
+1496259818 source:c:\users\dem\desktop\tp_3_boullon_demian_original\carga.c
+	"carga.h"
+
+1496242502 c:\users\dem\desktop\tp_3_boullon_demian_original\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"funciones.h"
+	"validacion.h"
+
+1496302098 c:\users\dem\desktop\tp_3_boullon_demian_original\funciones.h
+
+1495819054 c:\users\dem\desktop\tp_3_boullon_demian_original\validacion.h
+
+1496302088 source:c:\users\dem\desktop\tp_3_boullon_demian_original\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validacion.h"
+	"carga.h"
+
+1496259830 source:c:\users\dem\desktop\tp_3_boullon_demian_original\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"carga.h"
+	<conio.h>
+
+1496301429 source:c:\users\dem\desktop\tp_3_boullon_demian_original\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
