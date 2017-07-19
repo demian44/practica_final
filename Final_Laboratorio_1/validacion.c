@@ -1,4 +1,5 @@
 #include "validacion.h"
+#include "carga.h"
 //#include <conio.h>
 
 int esSoloLetras(char array[])
@@ -174,3 +175,36 @@ int introducirContrasenia(char* truePass, char* pasword)
     while(continuar=='s' && continuar=='S');
     return retorno;
 }
+
+int validarMail(char* mail)
+{
+    int i;
+    int retorno=0;
+    int flagArroba=0;
+    int flagPunto=0;
+    for(i=0; i<strlen(mail); i++){
+        if(i==0 && ((mail[i]<'a' || mail[i]>'z')&&(mail[i]<'A' || mail[i]>'Z'))){
+            flagArroba=0;
+            break;
+        }
+        else if((mail[i]<'a' || mail[i]>'z')&&(mail[i]<'A' || mail[i]>'Z') && mail[i]!='.' && mail[i]!='@'){
+            flagArroba=0;
+            break;
+        }
+        else if(mail[i]=='@' && flagArroba==0){
+                flagArroba++;
+        }
+        else if(mail[i]=='@' && flagArroba==1){
+            flagArroba=0;
+            break;
+        }
+        else if(mail[i]=='.'){
+            flagPunto++;
+            break;
+        }
+    }
+    if(flagArroba==1 && flagPunto>0)
+        retorno=1;
+    return retorno;
+}
+

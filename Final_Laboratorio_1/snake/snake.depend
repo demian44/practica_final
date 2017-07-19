@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1499264395 source:e:\facu\snake\main.c
+	"controller.h"
+
+1499264210 source:e:\facu\snake\controller.c
+	"controller.h"
+
+1499313212 e:\facu\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1499264210 e:\facu\snake\controller.h
+	"snake.h"
+
+1499313217 source:e:\facu\snake\snake.c
+	"snake.h"
+
