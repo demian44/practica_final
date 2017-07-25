@@ -148,3 +148,111 @@
 	<string.h>
 	<conio.h>
 
+1500950707 source:e:\practica_final\final_laboratorio_1\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1500950707 e:\practica_final\final_laboratorio_1\arraylist.h
+
+1500950707 source:e:\practica_final\final_laboratorio_1\carga.c
+	"carga.h"
+
+1500950707 e:\practica_final\final_laboratorio_1\carga.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<strings.h>
+	"validacion.h"
+
+1500950708 e:\practica_final\final_laboratorio_1\validacion.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1500951709 source:e:\practica_final\final_laboratorio_1\controller.c
+	"controller.h"
+	"carga.h"
+	"ArrayList.h"
+	"log.h"
+	"services.h"
+	"estadistica.h"
+	"snake/snake.h"
+
+1500950707 e:\practica_final\final_laboratorio_1\controller.h
+	<stdio.h>
+	<stdlib.h>
+
+1500950707 e:\practica_final\final_laboratorio_1\log.h
+	"ArrayList.h"
+
+1500950708 e:\practica_final\final_laboratorio_1\services.h
+	"Arraylist.h"
+
+1500950707 e:\practica_final\final_laboratorio_1\estadistica.h
+
+1500950707 source:e:\practica_final\final_laboratorio_1\main.c
+	"controller.h"
+
+1500950707 source:e:\practica_final\final_laboratorio_1\menu.c
+	"menu.h"
+	"conio.h"
+
+1500950707 e:\practica_final\final_laboratorio_1\menu.h
+	"conio.h"
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"ArrayList.h"
+	"carga.h"
+
+1500950708 source:e:\practica_final\final_laboratorio_1\validacion.c
+	"validacion.h"
+	"carga.h"
+
+1500950707 source:e:\practica_final\final_laboratorio_1\estadistica.c
+	"services.h"
+	"log.h"
+	"ArrayList.h"
+	"stdlib.h"
+	"stdio.h"
+	"validacion.h"
+	"estadistica.h"
+
+1500950707 source:e:\practica_final\final_laboratorio_1\log.c
+	"log.h"
+	"services.h"
+	"ArrayList.h"
+	"stdlib.h"
+	"stdio.h"
+	"validacion.h"
+
+1500950708 source:e:\practica_final\final_laboratorio_1\services.c
+	"services.h"
+	"log.h"
+	"ArrayList.h"
+	"stdlib.h"
+	"stdio.h"
+	"validacion.h"
+
+1500950708 source:e:\practica_final\final_laboratorio_1\snake\snake.c
+	"snake.h"
+
+1500950708 e:\practica_final\final_laboratorio_1\snake\snake.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+
+1500950708 source:e:\practica_final\final_laboratorio_1\snake\controller.c
+	"controller.h"
+
+1500950708 e:\practica_final\final_laboratorio_1\snake\controller.h
+	"snake.h"
+
+1500950708 source:e:\practica_final\final_laboratorio_1\snake\main.c
+	"controller.h"
+

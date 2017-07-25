@@ -4,6 +4,7 @@
 #include "log.h"
 #include "services.h"
 #include "estadistica.h"
+#include "snake/snake.h"
 void controller()
 {
     ArrayList* logList=al_newArrayList();

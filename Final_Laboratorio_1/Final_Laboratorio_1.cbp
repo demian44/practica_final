@@ -43,6 +43,16 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="controller.h" />
+		<Unit filename="errors.txt" />
+		<Unit filename="estadistica.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="estadistica.h" />
+		<Unit filename="log.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="log.h" />
+		<Unit filename="log.txt" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -50,10 +60,20 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menu.h" />
+		<Unit filename="services.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="services.h" />
+		<Unit filename="services.txt" />
+		<Unit filename="snake/snake.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="snake/snake.h" />
 		<Unit filename="validacion.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="validacion.h" />
+		<Unit filename="warnings.txt" />
 		<Extensions>
 			<code_completion />
 			<envvars />
